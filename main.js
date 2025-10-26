@@ -1,0 +1,1 @@
+console.log("BAMS Hub main script loaded.");
